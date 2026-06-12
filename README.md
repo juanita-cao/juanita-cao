@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Juanita 👋
 
-<!--
-**juanita-cao/juanita-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Engineer · Maritime Domain Expert · PhD (NTU)**
 
-Here are some ideas to get you started:
+I build AI systems that make complex operational decisions auditable,tractable —
+combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building decision-support AI for maritime operations
+- 🎓 PhD in Maritime Studies, NTU Singapore | Former Research Assistant Professor, NUS
+- 🏆 Kyoto Prize (IAME 2019) · MEL Palgrave Macmillan Best PhD Thesis Award
+- 📍 Singapore
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### Portfolio — Decision AI for Maritime & Logistics
+
+| Project | What it does | Stack |
+|---|---|---|
+| [ship-compliance-auditor](https://github.com/juanita-cao/ship-compliance-auditor) | LLM-based maritime regulatory compliance checker | Python · LangChain · Claude API |
+| [tce-quote-copilot](https://github.com/juanita-cao/tce-quote-copilot) | AI-assisted time charter rate decision tool | Python · FastAPI · Claude API |
+
+---
+
+### Let's Connect
+
+📧 caoxinhu118@outlook.com
