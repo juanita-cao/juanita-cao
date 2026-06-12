@@ -2,7 +2,7 @@
 
 **Senior AI Engineer · Maritime Domain Expert · PhD (NTU)**
 
-I build AI systems that make complex operational decisions auditable,tractable —
+I build AI systems that make complex operational decisions auditable, tractable —
 combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
 - 🔭 Currently building decision-support AI for maritime operations
@@ -29,8 +29,8 @@ combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ship-compliance-auditor](https://github.com/juanita-cao/ship-compliance-auditor) | LLM-based maritime regulatory compliance checker | Python · LangChain · Claude API |
-| [tce-quote-copilot](https://github.com/juanita-cao/tce-quote-copilot) | AI-assisted time charter rate decision tool | Python · FastAPI · Claude API |
+| [ship-plan-compliance-auditor](...) | LLM-based maritime regulatory compliance checker | Python · Claude API · Streamlit |
+| [tce-quote-copilot](...) | AI-assisted ship charter rate decision tool for operators | Python · FastAPI · Claude API |
 
 ---
 
