@@ -2,8 +2,7 @@
 
 **Senior AI Engineer · Maritime Domain Expert · PhD (NTU)**
 
-I build domain-aware AI systems that turn complex maritime and logistics workflows
-into validated, reproducible decision-support tools.
+I build AI systems that turn complex maritime and logistics workflows into validated, reproducible decision-support tools.
 
 - 🔭 Currently building decision-support AI for maritime operations
 - 🎓 PhD in Maritime Studies, NTU Singapore | Former Research Assistant Professor, NUS
@@ -31,6 +30,9 @@ into validated, reproducible decision-support tools.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SimPy](https://img.shields.io/badge/SimPy-4B8BBE?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
