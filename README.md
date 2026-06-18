@@ -12,6 +12,16 @@ combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
 ---
 
+### Engineering Focus
+
+- **Domain-aware AI engineering** — translating operational logic from ports, shipping, logistics, and compliance into structured AI workflows.
+- **Contract-first workflow design** — defining schemas, interfaces, and pipeline boundaries before implementation to make failures explicit and traceable.
+- **Validation-oriented development** — separating verification, validation, and result generation so outputs are reproducible and reviewable.
+- **End-to-end delivery** — building working systems from backend contracts and pipeline runners to UI prototypes, tests, documentation, and deployment.
+- **Product judgment** — documenting scope, trade-offs, known limitations, and next steps so each demo is a usable product artifact, not just a code sample.
+
+---
+
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,8 +38,7 @@ combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ship-plan-compliance-auditor](...) | LLM-based maritime regulatory compliance checker | Python · Claude API · Streamlit |
-| [tce-quote-copilot](...) | AI-assisted ship charter rate decision tool for operators | Python · FastAPI · Claude API |
+| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) ([live demo](https://port-typhoon-simulator.streamlit.app/)) | Simulation-driven decision support for typhoon-induced port losses | Python · SimPy · Streamlit |
 
 ---
 
