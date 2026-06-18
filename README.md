@@ -2,8 +2,8 @@
 
 **Senior AI Engineer · Maritime Domain Expert · PhD (NTU)**
 
-I build AI systems that make complex operational decisions auditable, tractable —
-combining simulation, optimization, and LLMs for ports, shipping, and logistics.
+I build domain-aware AI systems that turn complex maritime and logistics workflows
+into validated, reproducible decision-support tools.
 
 - 🔭 Currently building decision-support AI for maritime operations
 - 🎓 PhD in Maritime Studies, NTU Singapore | Former Research Assistant Professor, NUS
@@ -34,11 +34,13 @@ combining simulation, optimization, and LLMs for ports, shipping, and logistics.
 
 ---
 
-### Portfolio — Decision AI for Maritime & Logistics
+### Selected Portfolio — Decision AI for Maritime, Logistics, and Compliance
 
-| Project | What it does | Stack |
-|---|---|---|
-| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) ([live demo](https://port-typhoon-simulator.streamlit.app/)) | Simulation-driven decision support for typhoon-induced port losses | Python · SimPy · Streamlit |
+| Project | What it does | Stack | Demo |
+|---|---|---|---|
+| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Simulation-driven decision support for typhoon-induced port losses | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
+| ship-plan-compliance-auditor | Maritime regulatory compliance review | Python · LLM · Streamlit | Coming soon |
+| tce-quote-copilot | AI-assisted ship charter rate decision tool | Python · FastAPI · Claude API | Coming soon |
 
 ---
 
