@@ -40,7 +40,7 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
-| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Simulation-driven decision support for typhoon-induced port losses | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
+| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation dashboard for estimating typhoon-induced port throughput loss | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
 | ship-plan-compliance-auditor | Maritime regulatory compliance review | Python · LLM · Streamlit | Coming soon |
 | tce-quote-copilot | AI-assisted ship charter rate decision tool | Python · FastAPI · Claude API | Coming soon |
 
