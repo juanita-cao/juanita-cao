@@ -33,6 +33,8 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 ![SimPy](https://img.shields.io/badge/SimPy-4B8BBE?style=flat&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
@@ -40,8 +42,8 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
+| [ship-plan-compliance-auditor](https://github.com/juanita-cao/ship-plan-compliance-auditor) | Maritime regulatory compliance review | Python · LLM · Streamlit | [Live](https://ship-plan-auditor.streamlit.app/) |
 | [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation dashboard for estimating typhoon-induced port throughput loss | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
-| ship-plan-compliance-auditor | Maritime regulatory compliance review | Python · LLM · Streamlit | Coming soon |
 | tce-quote-copilot | AI-assisted ship charter rate decision tool | Python · FastAPI · Claude API | Coming soon |
 
 ---
