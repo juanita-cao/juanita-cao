@@ -44,7 +44,7 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 |---|---|---|---|
 | [ship-plan-compliance-auditor](https://github.com/juanita-cao/ship-plan-compliance-auditor) | Maritime regulatory compliance review | Python · LLM · Streamlit | [Live](https://ship-plan-auditor.streamlit.app/) |
 | [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation dashboard for estimating typhoon-induced port throughput loss | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
-| tce-quote-copilot | AI-assisted ship charter rate decision tool | Python · FastAPI · Claude API | Coming soon |
+| [ship-charter-quote-copilot](https://github.com/juanita-cao/ship-charter-quote-copilot) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox | Python · Streamlit · Pydantic | [Live](https://ship-charter-quote-copilot.streamlit.app/) |
 
 ---
 
