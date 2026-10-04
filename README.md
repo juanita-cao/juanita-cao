@@ -29,6 +29,8 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-4B8BBE?style=flat&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
@@ -43,8 +45,10 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
 | [ship-plan-compliance-auditor](https://github.com/juanita-cao/ship-plan-compliance-auditor) | Maritime regulatory compliance review | Python · LLM · Streamlit | [Live](https://ship-plan-auditor.streamlit.app/) |
-| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation dashboard for estimating typhoon-induced port throughput loss | Python · SimPy · Streamlit | [Live](https://port-typhoon-simulator.streamlit.app/) |
-| [ship-charter-quote-copilot](https://github.com/juanita-cao/ship-charter-quote-copilot) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox | Python · Streamlit · Pydantic | [Live](https://ship-charter-quote-copilot.streamlit.app/) |
+| [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation with interactive digital-twin UI — berth-level typhoon disruption animation, scenario heatmap, statistical V&V | Python · SimPy · React · FastAPI | [Live](https://port-typhoon-simulator-demo.innerdrivestudio.com) |
+| [container-truck-vrp-demo](https://github.com/juanita-cao/container-truck-vrp-demo) | Container drayage planning — drop-and-pull vs. wait mode comparison, VRP optimisation on Singapore's real road network, money-first output | Python · FastAPI · React | [Live](https://drayage-demo.innerdrivestudio.com) |
+| [ship-charter-quote-copilot](https://github.com/juanita-cao/ship-charter-quote-copilot) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox | Python · Streamlit · Pydantic | [Live](https://charterquote-demo.innerdrivestudio.com) |
+| [maritime-ops-inbox](https://github.com/juanita-cao/maritime-ops-inbox) | AI assistant for a ship operator's inbox — reads ops emails, proposes actions for human confirmation, answers questions with cited evidence | Python · FastAPI · React · LLM | [Live](https://marinemind-demo.innerdrivestudio.com) |
 
 ---
 
