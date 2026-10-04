@@ -1,10 +1,10 @@
 ## Hi, I'm Juanita 👋
 
-**Senior AI Engineer · Maritime Domain Expert · PhD (NTU)**
+**Senior AI Engineer · Simulation & Optimisation · Maritime Domain Expert · PhD (NTU)**
 
-I build AI systems that turn complex maritime and logistics workflows into validated, reproducible decision-support tools.
+I build AI systems that embed domain logic — from port operations to logistics networks — into validated, reproducible decision-support tools.
 
-- 🔭 Currently building decision-support AI for maritime operations
+- 🔭 Building and deploying decision-support AI across maritime operations, logistics, and compliance
 - 🎓 PhD in Maritime Studies, NTU Singapore | Former Research Assistant Professor, NUS
 - 🏆 Kyoto Prize (IAME 2019) · MEL Palgrave Macmillan Best PhD Thesis Award
 - 📍 Singapore
@@ -13,11 +13,11 @@ I build AI systems that turn complex maritime and logistics workflows into valid
 
 ### Engineering Focus
 
+- **Simulation & optimisation** — discrete-event modelling (SimPy), vehicle routing, statistical V&V; outputs are decisions, not just predictions.
 - **Domain-aware AI engineering** — translating operational logic from ports, shipping, logistics, and compliance into structured AI workflows.
 - **Contract-first workflow design** — defining schemas, interfaces, and pipeline boundaries before implementation to make failures explicit and traceable.
 - **Validation-oriented development** — separating verification, validation, and result generation so outputs are reproducible and reviewable.
 - **End-to-end delivery** — building working systems from backend contracts and pipeline runners to UI prototypes, tests, documentation, and deployment.
-- **Product judgment** — documenting scope, trade-offs, known limitations, and next steps so each demo is a usable product artifact, not just a code sample.
 
 ---
 
