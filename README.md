@@ -13,11 +13,12 @@ I build AI systems that embed domain logic — from port operations to logistics
 
 ### Engineering Focus
 
-- **Simulation & optimisation** — discrete-event modelling (SimPy), vehicle routing, statistical V&V; outputs are decisions, not just predictions.
+- **Simulation & optimisation** — discrete-event modelling (SimPy), vehicle routing, ALNS, CP-SAT; warm-up analysis, replication sizing, statistical V&V against operational records.
+- **LLM agents & RAG** — multi-step reasoning chains, evidence contracts, tool routing, retrieval-augmented Q&A, human-in-the-loop confirmation patterns.
 - **Domain-aware AI engineering** — translating operational logic from ports, shipping, logistics, and compliance into structured AI workflows.
 - **Contract-first workflow design** — defining schemas, interfaces, and pipeline boundaries before implementation to make failures explicit and traceable.
 - **Validation-oriented development** — separating verification, validation, and result generation so outputs are reproducible and reviewable.
-- **End-to-end delivery** — building working systems from backend contracts and pipeline runners to UI prototypes, tests, documentation, and deployment.
+- **End-to-end delivery** — backend contracts, pipeline runners, React UI, automated testing, Docker, cloud deployment.
 
 ---
 
@@ -33,7 +34,9 @@ I build AI systems that embed domain logic — from port operations to logistics
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-4B8BBE?style=flat&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat&logo=google&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
