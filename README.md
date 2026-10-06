@@ -50,7 +50,7 @@ I build AI systems that embed domain logic — from port operations to logistics
 | [port-typhoon-simulator](https://github.com/juanita-cao/port-typhoon-simulator) | Discrete-event simulation with interactive digital-twin UI — berth-level typhoon disruption animation, scenario heatmap, statistical V&V | Python · SimPy · React · FastAPI | [Live](https://port-typhoon-simulator-demo.innerdrivestudio.com) |
 | [container-truck-vrp-demo](https://github.com/juanita-cao/container-truck-vrp-demo) | Container drayage planning — drop-and-pull vs. wait mode comparison, VRP optimisation on Singapore's real road network, money-first output | Python · FastAPI · React | [Live](https://drayage-demo.innerdrivestudio.com) |
 | [maritime-ops-inbox](https://github.com/juanita-cao/maritime-ops-inbox) | AI assistant for a ship operator's inbox — reads ops emails, proposes actions for human confirmation, answers questions with cited evidence | Python · FastAPI · React · LLM | [Live](https://marinemind-demo.innerdrivestudio.com) |
-| [ship-charter-quote-copilot](https://github.com/juanita-cao/ship-charter-quote-copilot) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox | Python · Streamlit · Pydantic | [Live](https://charterquote-demo.innerdrivestudio.com) |
+| [charter-quote-copilot-demo](https://github.com/juanita-cao/charter-quote-copilot-demo) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox, cargo-by-cargo freight and port-cost dashboards | Python · FastAPI · React · TypeScript · PostgreSQL | [Live](https://charterquote-demo.innerdrivestudio.com) |
 
 ---
 
