@@ -14,7 +14,7 @@ I build AI systems that embed domain logic — from port operations to logistics
 ### Engineering Focus
 
 - **Simulation & optimisation** — discrete-event modelling (SimPy), vehicle routing, ALNS, CP-SAT; warm-up analysis, replication sizing, statistical V&V against operational records.
-- **LLM agents & RAG** — multi-step reasoning chains, evidence contracts, tool routing, retrieval-augmented Q&A, human-in-the-loop confirmation patterns.
+- **LLM agents & RAG** — multi-step reasoning chains, evidence contracts, tool routing, retrieval-augmented Q&A, vision-LLM extraction with self-consistency voting, human-in-the-loop confirmation patterns.
 - **Domain-aware AI engineering** — translating operational logic from ports, shipping, logistics, and compliance into structured AI workflows.
 - **Contract-first workflow design** — defining schemas, interfaces, and pipeline boundaries before implementation to make failures explicit and traceable.
 - **Validation-oriented development** — separating verification, validation, and result generation so outputs are reproducible and reviewable.
@@ -32,7 +32,6 @@ I build AI systems that embed domain logic — from port operations to logistics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-4B8BBE?style=flat&logoColor=white)
 ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat&logo=google&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
@@ -51,6 +50,7 @@ I build AI systems that embed domain logic — from port operations to logistics
 | [container-truck-vrp-demo](https://github.com/juanita-cao/container-truck-vrp-demo) | Container drayage planning — drop-and-pull vs. wait mode comparison, VRP optimisation on Singapore's real road network, money-first output | Python · FastAPI · React | [Live](https://drayage-demo.innerdrivestudio.com) |
 | [maritime-ops-inbox](https://github.com/juanita-cao/maritime-ops-inbox) | AI assistant for a ship operator's inbox — reads ops emails, proposes actions for human confirmation, answers questions with cited evidence | Python · FastAPI · React · LLM | [Live](https://marinemind-demo.innerdrivestudio.com) |
 | [charter-quote-copilot-demo](https://github.com/juanita-cao/charter-quote-copilot-demo) | AI-assisted ship charter rate decision tool — TCE calculation, GO/NO-GO gate, reverse quote, negotiation sandbox, cargo-by-cargo freight and port-cost dashboards | Python · FastAPI · React · TypeScript · PostgreSQL | [Live](https://charterquote-demo.innerdrivestudio.com) |
+| [ship-plan-compliance-auditor](https://github.com/juanita-cao/ship-plan-compliance-auditor) | Ship deck-plan compliance review — vision-LLM fire-equipment detection with majority voting, click-to-locate evidence on the original plan, per-rule verdicts citing regulation articles, human sign-off, and a Copilot that says "file missing" instead of guessing | Python · FastAPI · React · TypeScript · PostgreSQL · OpenCV | [Live](https://ship-design-compliance-demo.innerdrivestudio.com) |
 
 ---
 
